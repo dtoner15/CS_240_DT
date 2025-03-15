@@ -1,4 +1,4 @@
-package CS240Assignments.FibonacciIterator;
+package FibonacciIterator;
 
 import java.util.*;
 

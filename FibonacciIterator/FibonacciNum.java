@@ -1,4 +1,4 @@
-package CS240Assignments.FibonacciIterator;
+package FibonacciIterator;
 
 public class FibonacciNum{
     public static void main(String[] args) {

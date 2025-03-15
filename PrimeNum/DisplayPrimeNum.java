@@ -1,4 +1,4 @@
-package CS240Assignments.PrimeNum;
+package PrimeNum;
 
 import java.util.*;
 

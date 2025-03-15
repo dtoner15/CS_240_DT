@@ -5,7 +5,6 @@ import java.util.*;
 
 public class HeapMain {
     public static void main(String[] args) {
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>();
         PriorityQueue<Integer> minHeap = new PriorityQueue<>();
 
         Scanner input = new Scanner(System.in);

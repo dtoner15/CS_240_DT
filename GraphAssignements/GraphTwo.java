@@ -1,4 +1,4 @@
-package CS240Assignments.GraphAssignements;
+package GraphAssignements;
 
 import java.util.*;
 // Class to represent a graph

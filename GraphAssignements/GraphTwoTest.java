@@ -1,4 +1,4 @@
-package CS240Assignments.GraphAssignements;
+package GraphAssignements;
 
 import java.util.Scanner;
 
